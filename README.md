@@ -1,6 +1,6 @@
 # AI Lab
 
-This AI Lab has three IoT Devices, one autonomous vehicle, and one data mart.  It was designed to teach youth about robotics and artificial intelligence, but adults like it too.
+This AI Lab has three IoT Devices, one autonomous vehicle, a "public radio", and a data mart.  It was designed to teach youth about robotics and artificial intelligence, but adults like it too.
 
 <h2>AstroPiQuake</h2>
 
