@@ -14,8 +14,8 @@ Build your own using these <a href="https://github.com/NelsonPython/Enviro">inst
 <h2>Air MacClean</h2>
 Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach wires.  <a href="https://github.com/NelsonPython/Air_MacClean">Here are the instructions</a>.
 
-<h2>Bumblebee</h2>
-Bumblebee is a simple autonomous vehicle.  There are many ways to build the vehicle.  These <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires must be attached.  
+<h2>Bumblebee AV</h2>
+Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the vehicle.  These <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires must be attached.  
 
 <h2>Public Radio</h2>
 Public radio is an Oracle VirtualBox running Ubuntu 18.04 with Python 3.x, Pandas, Numpy, Matplotlib, Folium, and Google TTS (text-to-speech) software.
