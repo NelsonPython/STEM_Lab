@@ -14,7 +14,7 @@ Enviro is an environment sensor that can also detect sky color to help forecast 
 Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach wires.  Follow these <a href="https://github.com/NelsonPython/Air_MacClean">instructions</a>.
 
 <h2>Bumblebee AV</h2>
-Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the vehicle.  These <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to calibrate turning left and right.  
+Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the vehicle.  These <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to control when turning left or right.  
 
 <h2>Public Radio</h2>
 Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google TTS (text-to-speech) modules installed.
