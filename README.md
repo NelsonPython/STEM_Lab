@@ -8,8 +8,7 @@ AstroPiQuake is an environment sensor that can also detect earthquakes.  It is e
 Try out the [AstroPiQuake emulator](https://trinket.io/python/9c2e984979).  Move the temperature slider to see Smiley's face change colors from cool blue to mellow yellow to red hot. Follow these <a href="https://github.com/NelsonPython/AstroPiQuake">instructions</a> to build it
 
 <h2>Enviro</h2>
-Enviro is an environment sensor that can also detect sky color to help forecast weather.  It is easy to build with snap together parts.
-Follow these <a href="https://github.com/NelsonPython/Enviro">instructions</a> to build it
+Enviro is an environment sensor that can also detect sky color to help forecast weather.  To build it, you must solder and snap together parts.  Follow these <a href="https://github.com/NelsonPython/Enviro">instructions</a> to build it
 
 <h2>Air MacClean</h2>
 Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach wires.  Follow these <a href="https://github.com/NelsonPython/Air_MacClean">instructions</a>.
