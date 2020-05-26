@@ -20,7 +20,7 @@ Use this ISO to configure your VirtualBox
 
 <h3>Installing Pandas</h3>
 
-<a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html">Installing from PyPI</a>
+<a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html">use the pip install</a>
 
 ```
 pip3 install pandas
