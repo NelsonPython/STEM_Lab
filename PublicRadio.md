@@ -12,7 +12,11 @@ Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating
 
 <a href="http://releases.ubuntu.com/18.04.4/?_ga=2.216561171.445070319.1590454515-1663201285.1590454515">Download the ISO</a>
 
+Use this ISO to configure your VirtualBox
+
 <h3>Verifying Python and PIP</h3>
+
+
 
 <h3>Installing Pandas</h3>
 
@@ -22,7 +26,7 @@ Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating
 pip3 install pandas
 ```
 
-<h3>Installing Matplotlib/h3>
+<h3>Installing Matplotlib</h3>
 
 <a href="https://matplotlib.org/3.1.1/users/installing.html">use the pip install</a>
 
