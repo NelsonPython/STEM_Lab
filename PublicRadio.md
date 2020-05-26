@@ -16,6 +16,18 @@ Use this ISO to configure your VirtualBox
 
 <h3>Verifying Python and PIP</h3>
 
+Verify that Python3 has been pre-installed:
+
+```
+python3 --version
+$ Python 3.7.3
+```
+
+Verify the pip points to python3
+```
+pip --version
+$  pip 18.1 from /usr/lib/python3/dist-packages/pip (python 3.7)
+```
 
 
 <h3>Installing Pandas</h3>
