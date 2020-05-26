@@ -17,7 +17,7 @@ Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach 
 Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the vehicle.  These <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to control when turning left or right.  
 
 <h2>Public Radio</h2>
-Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google TTS (text-to-speech) modules installed.  Here's a [playlist of tutorials](PublicRadio.html) explaining how to build it.
+Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google TTS (text-to-speech) modules installed.  Follow these [tutorials](PublicRadio.md) to build it.
 
 <h2>MOBI Data Mart</h2>
 The MOBI Data Mart is a simple marketplace for buying and selling data.  You can replace this with a popular data marketplace.
