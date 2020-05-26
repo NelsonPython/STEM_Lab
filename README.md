@@ -21,7 +21,3 @@ Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the v
 <h2>Public Radio</h2>
 Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google text-to-speech or gTTS modules installed.  Follow these <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">tutorials</a> to build it.
 
-<h2>MOBI Data Mart</h2>
-The MOBI Data Mart is a simple marketplace for buying and selling data.  You can replace this with a popular data marketplace.
-
-
