@@ -5,13 +5,14 @@ Accelerometers measure acceleration or the rate of change of the velocity of an 
 Try this tutorial to <a href="https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat/8">get started learning about your accelerometer and gyroscope</a>
 
 <h3>Reference</h3>
+
 <a href="https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat/8">Sense Hat IMU</a>
+
 
 <a href="https://learn.sparkfun.com/tutorials/accelerometer-basics/all">Accelerometer basics</a>
 
+
 <a href="http://www.lunar.org/docs/LUNARclips/v5/v5n1/Accelerometers.html">Thinking About Accelerometers and Gravity</a>
 
-
-<a href=""></a>
 
 
