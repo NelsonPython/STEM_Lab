@@ -1,4 +1,4 @@
-![]("AI_Lab.png")
+<img src="AI_Lab.png">
 
 This AI Lab has three IoT Devices, one autonomous vehicle, a "public radio", and a data mart.  It was designed to teach youth about robotics and artificial intelligence, but adults like it too.
 
