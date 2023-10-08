@@ -15,5 +15,5 @@ Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach 
 Bumblebee is a rover that can understand a simple goal and generate a plan for driving along a path.  There are many ways to build the vehicle.  These 
 <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to control when turning left or right.  
 
-<h2><a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">Public Data Cloud</a></h2>
-Public data cloud can run on an edge computing device such as a <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio_Raspbian.md">Raspberry Pi 4</a>, a computer, or an <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">Oracle VirtualBox</a>. 
+<h2>Public Data Cloud</a></h2>
+The public data cloud can run on an edge computing device such as a <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicDataCloud_Raspbian.md">Raspberry Pi 4</a>, a computer, or an <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicDataCloud_VirtualBox.md">Oracle VirtualBox</a>. 
