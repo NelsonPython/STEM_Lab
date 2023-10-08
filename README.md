@@ -1,6 +1,4 @@
-<img src="AI_Lab.png">
-
-This AI Lab has three IoT Devices, one autonomous vehicle, a "public radio", and a data mart.  It was designed to teach youth about robotics and artificial intelligence, but adults like it too.
+This STEM Lab has a rover with sensors that learn about the environment.  As the rover explores, it sends data to a "public radio".  You can view the data at a data mart.  
 
 <h2><a href="https://github.com/NelsonPython/AstroPiQuake">AstroPiQuake</a></h2>
 
