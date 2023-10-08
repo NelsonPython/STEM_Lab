@@ -1,6 +1,6 @@
-<h1>Configuring your Public Radio on an Oracle VirtualBox</h1>
+<h1>Configuring your Public Data Cloud on an Oracle VirtualBox</h1>
 
-Public radio runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google text-to-speech modules installed.
+The public data cloud runs on an Oracle VirtualBox loaded with the Ubuntu 18.04 operating system and the Python 3.x programming language with Pandas, Numpy, Matplotlib, Folium, and Google text-to-speech modules installed.
 
 <h3>Installing Oracle VirtualBox</h3>
 
