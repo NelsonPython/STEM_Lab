@@ -1,4 +1,4 @@
-This STEM Lab was designed by a retired NASA software specialist to introduce students to data science.  Like  rovers on Mars, the Bumblebee rover uses sensors to explore its environment.  As the rover explores, it sends sensor readings to a public data cloud where the data can be downloaded and used to conduct data science experiments.  The STEM Lab was built using open source software tools that are used by professional software engineers.    
+This STEM Lab was designed by a retired NASA software specialist to introduce students to data science.  Like  rovers on Mars, the Bumblebee rover uses sensors to explore its environment.  As the rover explores, it sends sensor readings to a public data cloud where the data can be downloaded and used to conduct data science experiments.  The STEM Lab software was coded using open source software tools that are used by professional software engineers.
 
 <h2><a href="https://github.com/NelsonPython/AstroPiQuake">AstroPiQuake</a></h2>
 
