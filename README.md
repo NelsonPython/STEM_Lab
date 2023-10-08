@@ -11,7 +11,7 @@ Enviro is an environment sensor that can also detect sky color to help forecast 
 Air MacClean is a CO2 and TVOC sensor.  To build it, you must solder and attach wires.  Follow these 
 <a href="https://github.com/NelsonPython/Air_MacClean">instructions</a>.
 
-<h2><a href="https://github.com/NelsonPython/Bumblebee_AV">Bumblebee AV</a></h2>
+<h2><a href="https://github.com/NelsonPython/Bumblebee_Rover">Bumblebee Rover</a></h2>
 Bumblebee is a rover that can understand a simple goal and generate a plan for driving along a path.  There are many ways to build the vehicle.  These 
 <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to control when turning left or right.  
 
