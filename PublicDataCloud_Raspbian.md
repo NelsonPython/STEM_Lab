@@ -1,6 +1,6 @@
-<h1>Configuring your Public Radio on a Raspberry 4</h1>
+<h1>Configuring your Public Data Cloud on a Raspberry 4</h1>
 
-Public radio runs on a Raspberry Pi 4 with the Buster operating system and the Python 3.7 programming language.  Some of the following modules have not been tested, yet.
+The public data cloud is being tested on a Raspberry Pi 4 with the Buster operating system and the Python 3.7 programming language.
 
 <h3>Verifying Python and PIP</h3>
 
