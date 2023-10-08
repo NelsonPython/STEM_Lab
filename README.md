@@ -19,5 +19,5 @@ Bumblebee AV is a simple autonomous vehicle.  There are many ways to build the v
 <a href="https://github.com/NelsonPython/Bumblebee_AV">instructions</a> recommend LegosTM and robot parts.  The motor controller must be soldered and wires, motors, and wheels must be attached.  I do not recommend using a three-wheel robot with a coaster wheel because it is difficult to control when turning left or right.  
 
 <h2><a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">Public Radio</a></h2>
-Public radio can run on an edge computing device such as a Raspberry Pi 4, a computer, or an <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">Oracle VirtualBox</a>. 
+Public radio can run on an edge computing device such as a <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio_RaspberryPi.md">Raspberry Pi 4</a>, a computer, or an <a href="https://github.com/NelsonPython/AI_Lab/blob/master/PublicRadio.md">Oracle VirtualBox</a>. 
 
