@@ -1,4 +1,4 @@
-This STEM Lab has a rover with sensors that learn about the environment.  As the rover explores, it sends data to a "public radio".  You can view the data at a data mart.  
+This STEM Lab was designed by a retired NASA software specialist to introduce students to data science.  Like the Curiosity Mars rover, the Bumblebee rover uses sensors to explore its environment.  As the rover explores, it sends data to a "public radio" where it can be downloaded and used to conduct data science experiments.  
 
 <h2><a href="https://github.com/NelsonPython/AstroPiQuake">AstroPiQuake</a></h2>
 
